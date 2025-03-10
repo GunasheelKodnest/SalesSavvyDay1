@@ -1,5 +1,5 @@
 # terminals
 terminals: ['cd FrontEnd && npm install --force']
 
-tabs: ['./FrontEnd/src/App.js']
+tabs: ['./FrontEnd/src/App.jsx']
 run-button: npm run dev
