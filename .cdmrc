@@ -1,0 +1,9 @@
+# terminals
+terminals:
+[
+  'echo "Day1 init"'
+]
+
+# other config
+tabs: ['src/App.js']
+  run-button: npm run dev
