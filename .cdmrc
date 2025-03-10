@@ -2,4 +2,4 @@
 terminals: ['cd FrontEnd && npm install --force']
 
 tabs: ['./FrontEnd/src/App.jsx']
-run-button: npm run dev
+run-button: cd FrontEnd && npm run dev
