@@ -1,9 +1,5 @@
 # terminals
-terminals:
-[
-  'echo: "Day1 init"'
-]
+terminals: ['cd FrontEnd && npm install --force']
 
-# other config
 tabs: ['./FrontEnd/src/App.js']
 run-button: npm run dev
